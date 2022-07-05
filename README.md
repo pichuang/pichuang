@@ -2,8 +2,8 @@
 
 ![Phil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pichuang&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on VMware Tanzu
-- 🌱 I’m currently learning Tanzu
+- 🔭 I’m currently working on Microsoft
+- 🌱 I’m currently learning Azure
 
 <p align="center"> 
   Visitor count<br>
